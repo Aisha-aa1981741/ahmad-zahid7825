@@ -17,11 +17,12 @@ Improved application performance and optimized code for better user experience.
 Conducted code reviews to ensure security and scalability
 
 ## 🌟 Projects
-404 Not Found - Right now
+#### Job Board
+- Create a job posting application with Django, Similar to linkedin. Authorized people can view, post, edit and remove jobs.
 
 ## 📫 Get in Touch
-LinkedIn: https://www.linkedin.com/in/ahmadzahid7825/
-Email: m.ahmadzahid7825@gmail.com
+ - LinkedIn: https://www.linkedin.com/in/ahmadzahid7825/
+ - Email: m.ahmadzahid7825@gmail.com
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect!
 
 ## 🌱 Always Learning
